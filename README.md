@@ -1,2 +1,2 @@
 # PNG-Monstrous
-Update to PNG Monster
+This is the update to Spodi's PNG Monster. Contains interface enhancements and zopflipng.
